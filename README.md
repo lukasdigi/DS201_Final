@@ -3,7 +3,11 @@ Final Project
 Lukas DiGiovanni, Cole Moore, Kasey Cohen, Anthony Cuccia
 2025-05-07
 
-Run this analysis on Kaggle’s R Notebooks:
+## Interactive Environment
+
+Run this analysis in a new Kaggle Notebook:
+
+[![Run in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?script=https://raw.githubusercontent.com/lukasdigi/DS201_Final/main/FinalProject_updated.Rmd&kernelType=notebook&language=R)
 
 Launch this analysis in a live RStudio session on Binder:
 
