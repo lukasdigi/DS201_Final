@@ -5,9 +5,9 @@ Lukas DiGiovanni, Cole Moore, Kasey Cohen, Anthony Cuccia
 
 ## Interactive Environment
 
-Run this analysis in a new Kaggle Notebook:
+Run this analysis in a new Kaggle Kernel:
 
-[![Run in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?script=https://raw.githubusercontent.com/lukasdigi/DS201_Final/main/FinalProject_updated.Rmd&kernelType=notebook&language=R)
+[![Run in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?scriptUrl=https://raw.githubusercontent.com/lukasdigi/DS201_Final/main/FinalProject_updated.Rmd&kernelType=script&language=R)
 
 Launch this analysis in a live RStudio session on Binder:
 
