@@ -450,7 +450,7 @@ loan_data %>%
 
 - **Income**
   - Roughly bell‑shaped with a long right tail, capped at \$200K.  
-  - Median (~\$110K) is slightly below the mean (~\$115K), indicating
+  - Median $110K is slightly below the mean $115K, indicating
     some very high earners.  
 - **Credit Score**
   - Fairly uniform spread from 300–850, with a slight bump in the
@@ -459,7 +459,7 @@ loan_data %>%
 - **Loan Amount**
   - Strong right skew: most loans cluster between \$10K–\$50K, but a
     tail extends past \$150K.  
-  - Median (~\$35K) is lower than the mean (~\$44K), consistent with a
+  - Median $35K is lower than the mean $44K, consistent with a
     few very large loans.  
 - **DTI Ratio**
   - Many applicants sit between 10–40%, but some exceed 100%, suggesting
