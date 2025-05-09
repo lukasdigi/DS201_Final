@@ -3,6 +3,10 @@ Final Project
 Lukas DiGiovanni, Cole Moore, Kasey Cohen, Anthony Cuccia
 2025-05-07
 
+Run this analysis on Kaggle’s R Notebooks:
+
+[![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?script_url=https://raw.githubusercontent.com/lukasdigi/DS201_Final/main/FinalProject_updated.Rmd)
+
 ``` r
 # 1. Point R at the folder where loan_data.csv lives
 setwd("/Users/lukasdigiovanni/Desktop/DS201_Final")
