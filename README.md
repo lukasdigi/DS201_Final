@@ -1,6 +1,6 @@
-FinalProj
+Final Project
 ================
-Lukas DiGiovanni
+Lukas DiGiovanni, Cole Moore, Kasey Cohen, Anthony Cuccia
 2025-05-07
 
 ``` r
