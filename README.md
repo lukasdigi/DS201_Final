@@ -126,7 +126,7 @@ making the dataset appropriate for academic and non-commercial machine
 learning projects. While realistic, the synthetic nature of the data may
 limit its applicability to actual loan approval systems.
 
-## 2. Data Understanding & Preparation
+## Data Understanding & Preparation
 
 ``` r
 library(knitr)
@@ -300,7 +300,7 @@ No
 </tbody>
 </table>
 
-### 2.1 Load libraries and data
+### Load libraries and data
 
 ``` r
 library(tidyverse) 
