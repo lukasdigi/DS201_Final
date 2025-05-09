@@ -5,13 +5,11 @@ Lukas DiGiovanni, Cole Moore, Kasey Cohen, Anthony Cuccia
 
 ## Interactive Environment
 
-Run this analysis in a new Kaggle Kernel:
+### Project Notebook
 
-[![Run in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/kernels/welcome?scriptUrl=https://raw.githubusercontent.com/lukasdigi/DS201_Final/main/FinalProject_updated.Rmd&kernelType=script&language=R)
+You can view the full analysis on Kaggle here:
 
-Launch this analysis in a live RStudio session on Binder:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lukasdigi/DS201_Final/main?urlpath=rstudio)
+[Final Project Notebook on Kaggle](https://www.kaggle.com/code/lukasdigiovanni/finalprojectnotebook)
 
 ``` r
 # 1. Point R at the folder where loan_data.csv lives
