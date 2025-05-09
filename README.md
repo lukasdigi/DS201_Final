@@ -5,6 +5,11 @@ Lukas DiGiovanni, Cole Moore, Kasey Cohen, Anthony Cuccia
 
 Run this analysis on Kaggle’s R Notebooks:
 
+Launch this analysis in a live RStudio session on Binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lukasdigi/DS201_Final/main?urlpath=rstudio)
+
+
 [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?script_url=https://raw.githubusercontent.com/lukasdigi/DS201_Final/main/FinalProject_updated.Rmd)
 
 ``` r
