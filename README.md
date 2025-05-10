@@ -11,6 +11,11 @@ You can view the full analysis on Kaggle here:
 
 [Final Project Notebook on Kaggle](https://www.kaggle.com/code/lukasdigiovanni/finalprojectnotebook)
 
+### Youtube Presentation and Tutorial
+
+Presentation Link : https://youtu.be/30YDUx3kuxA
+Tutorial Link : https://youtu.be/2Zcn7H5uSfA
+
 ``` r
 # 1. Point R at the folder where loan_data.csv lives
 setwd("/Users/lukasdigiovanni/Desktop/DS201_Final")
